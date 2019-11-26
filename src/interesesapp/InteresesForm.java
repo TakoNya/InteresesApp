@@ -228,6 +228,7 @@ public class InteresesForm extends javax.swing.JFrame {
         txtIntereses.setText(null);
     }//GEN-LAST:event_btnCancelarActionPerformed
 
+    
     private void btnCalcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCalcularActionPerformed
         try{
             Validar();
